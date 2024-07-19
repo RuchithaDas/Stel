@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', 'Lato' !important;
+    font-size: large;
+}
+
+.logo {
+    height: 43px;
+}
+.navbar-brand{
+    font: size 27px;
+    padding-left: 27px;
+    font-family: 'lato';
+}
